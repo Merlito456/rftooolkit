@@ -1,0 +1,10 @@
+
+{
+  "name": "RF Toolkit Pro",
+  "description": "A comprehensive suite of professional tools for Radio Frequency engineers, including a real-time spectrum analyzer, signal generator, RF calculators, and a smart AI assistant with Google Search grounding.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
